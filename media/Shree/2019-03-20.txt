@@ -1,0 +1,11 @@
+{'data': 'no face detected'} - 22:53:13.413662
+{'data': 'no face detected'} - 23:24:54.827337
+{'data': 'no face detected'} - 23:26:31.370580
+{'data': 'no face detected'} - 23:28:13.567150
+{'data': 'no face detected'} - 23:34:06.087001
+{'data': 'no face detected'} - 23:34:52.748688
+{'data': 'no face detected'} - 23:46:31.429599
+{'data': 'no face detected'} - 23:48:52.510687
+{'data': 'no face detected'} - 23:51:42.579092
+{'data': 'no face detected'} - 23:53:25.076747
+{'data': 'no face detected'} - 23:56:22.087289
